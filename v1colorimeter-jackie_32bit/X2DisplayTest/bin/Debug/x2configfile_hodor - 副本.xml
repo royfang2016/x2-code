@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<X2>
+  <Item>
+    <Exposure Time="400" />
+    <Info ItemName="White" RGB="(255,255,255)" IsNeedTest="True" />
+    <Array>
+      <TestNode TestName="luminance" Upper="1500" Lower="330" Unit="nt" IsNeedTest="True" />
+      <TestNode TestName="uniformity" Upper="1" Lower="0.83" Unit="" IsNeedTest="True" />
+      <TestNode TestName="mura" Upper="5" Lower="0" Unit="" IsNeedTest="True" />
+      <TestNode TestName="CIE1931.x" Upper="0.345" Lower="0.28" Unit="" IsNeedTest="True" />
+      <TestNode TestName="CIE1931.y" Upper="0.36" Lower="0.295" Unit="" IsNeedTest="True" />
+      <TestNode TestName="CIE1931.Lv" Upper="500" Lower="1" Unit="nt" IsNeedTest="True" />
+    </Array>
+  </Item>
+  <Item>
+    <Exposure Time="940" />
+    <Info ItemName="Red" RGB="(255,0,0)" IsNeedTest="True" />
+    <Array>
+      <TestNode TestName="luminance" Upper="500" Lower="1" Unit="nt" IsNeedTest="True" />
+      <TestNode TestName="uniformity" Upper="1" Lower="0.83" Unit="" IsNeedTest="True" />
+      <TestNode TestName="mura" Upper="5" Lower="0" Unit="" IsNeedTest="True" />
+      <TestNode TestName="CIE1931.x" Upper="0.67" Lower="0.6" Unit="" IsNeedTest="True" />
+      <TestNode TestName="CIE1931.y" Upper="0.37" Lower="0.3" Unit="" IsNeedTest="True" />
+      <TestNode TestName="CIE1931.Lv" Upper="500" Lower="1" Unit="nt" IsNeedTest="True" />
+    </Array>
+  </Item>
+  <Item>
+    <Exposure Time="500" />
+    <Info ItemName="Green" RGB="(0,255,0)" IsNeedTest="True" />
+    <Array>
+      <TestNode TestName="luminance" Upper="500" Lower="1" Unit="nt" IsNeedTest="True" />
+      <TestNode TestName="uniformity" Upper="1" Lower="0.83" Unit="" IsNeedTest="True" />
+      <TestNode TestName="mura" Upper="5" Lower="0" Unit="" IsNeedTest="True" />
+      <TestNode TestName="CIE1931.x" Upper="0.335" Lower="0.26" Unit="" IsNeedTest="True" />
+      <TestNode TestName="CIE1931.y" Upper="0.655" Lower="0.58" Unit="" IsNeedTest="True" />
+      <TestNode TestName="CIE1931.Lv" Upper="500" Lower="1" Unit="nt" IsNeedTest="True" />
+    </Array>
+  </Item>
+  <Item>
+    <Exposure Time="380" />
+    <Info ItemName="Blue" RGB="(0,0,255)" IsNeedTest="True" />
+    <Array>
+      <TestNode TestName="luminance" Upper="500" Lower="1" Unit="nt" IsNeedTest="True" />
+      <TestNode TestName="uniformity" Upper="1" Lower="0.55" Unit="" IsNeedTest="True" />
+      <TestNode TestName="mura" Upper="5" Lower="0" Unit="" IsNeedTest="True" />
+      <TestNode TestName="CIE1931.x" Upper="0.185" Lower="0.115" Unit="" IsNeedTest="True" />
+      <TestNode TestName="CIE1931.y" Upper="0.08" Lower="0.015" Unit="" IsNeedTest="True" />
+      <TestNode TestName="CIE1931.Lv" Upper="500" Lower="1" Unit="nt" IsNeedTest="True" />
+    </Array>
+  </Item>
+  <Item>
+    <Exposure Time="5" />
+    <Info ItemName="Black" RGB="(0,0,0)" IsNeedTest="True" />
+    <Array>
+      <TestNode TestName="luminance" Upper="500" Lower="0" Unit="nt" IsNeedTest="True" />
+      <TestNode TestName="uniformity" Upper="1" Lower="0.83" Unit="" IsNeedTest="True" />
+      <TestNode TestName="mura" Upper="5" Lower="0" Unit="" IsNeedTest="True" />
+      <TestNode TestName="CIE1931.x" Upper="0.4" Lower="0" Unit="" IsNeedTest="True" />
+      <TestNode TestName="CIE1931.y" Upper="0.4" Lower="0" Unit="" IsNeedTest="True" />
+      <TestNode TestName="CIE1931.Lv" Upper="500" Lower="0" Unit="nt" IsNeedTest="True" />
+    </Array>
+  </Item>
+  <X2Params>
+    <Calibration Value="65.32" />
+  </X2Params>
+</X2>

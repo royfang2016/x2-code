@@ -1,0 +1,325 @@
+D:\microtest\Project\X2DisplayTest\X2DisplayTest\bin\Debug\X2DisplayTest.exe.config
+D:\microtest\Project\X2DisplayTest\X2DisplayTest\bin\Debug\X2DisplayTest.exe
+D:\microtest\Project\X2DisplayTest\X2DisplayTest\bin\Debug\X2DisplayTest.pdb
+D:\microtest\Project\X2DisplayTest\X2DisplayTest\obj\Debug\ResolveAssemblyReference.cache
+D:\microtest\Project\X2DisplayTest\X2DisplayTest\obj\Debug\Interop.CA200SRVRLib.dll
+D:\microtest\Project\X2DisplayTest\X2DisplayTest\obj\Debug\X2DisplayTest.csproj.ResolveComReference.cache
+D:\microtest\Project\X2DisplayTest\X2DisplayTest\obj\Debug\Colorimeter_Config_GUI.CalibrationPanel.resources
+D:\microtest\Project\X2DisplayTest\X2DisplayTest\obj\Debug\Colorimeter_Config_GUI.FeatureParam.resources
+D:\microtest\Project\X2DisplayTest\X2DisplayTest\obj\Debug\Colorimeter_Config_GUI.FixturePanel.resources
+D:\microtest\Project\X2DisplayTest\X2DisplayTest\obj\Debug\Colorimeter_Config_GUI.Form_Config.resources
+D:\microtest\Project\X2DisplayTest\X2DisplayTest\obj\Debug\Colorimeter_Config_GUI.FrmLogin.resources
+D:\microtest\Project\X2DisplayTest\X2DisplayTest\obj\Debug\X2DisplayTest.FrmSetting.resources
+D:\microtest\Project\X2DisplayTest\X2DisplayTest\obj\Debug\Colorimeter_Config_GUI.ModeSwithDlg.resources
+D:\microtest\Project\X2DisplayTest\X2DisplayTest\obj\Debug\X2DisplayTest.Properties.Resources.resources
+D:\microtest\Project\X2DisplayTest\X2DisplayTest\obj\Debug\GenerateResource.read.1.tlog
+D:\microtest\Project\X2DisplayTest\X2DisplayTest\obj\Debug\GenerateResource.write.1.tlog
+D:\microtest\Project\X2DisplayTest\X2DisplayTest\obj\Debug\X2DisplayTest.exe
+D:\microtest\Project\X2DisplayTest\X2DisplayTest\obj\Debug\X2DisplayTest.pdb
+C:\Users\Administrator\Desktop\Project\X2DisplayTest\X2DisplayTest\bin\Debug\X2DisplayTest.exe.config
+C:\Users\Administrator\Desktop\Project\X2DisplayTest\X2DisplayTest\obj\Debug\X2DisplayTest.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Project\X2DisplayTest\X2DisplayTest\obj\Debug\X2DisplayTest.exe
+C:\Users\Administrator\Desktop\Project\X2DisplayTest\X2DisplayTest\obj\Debug\X2DisplayTest.pdb
+C:\Users\Administrator\Desktop\Project\X2DisplayTest\X2DisplayTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Project\X2DisplayTest\X2DisplayTest\obj\Debug\Colorimeter_Config_GUI.CalibrationPanel.resources
+C:\Users\Administrator\Desktop\Project\X2DisplayTest\X2DisplayTest\obj\Debug\Colorimeter_Config_GUI.FeatureParam.resources
+C:\Users\Administrator\Desktop\Project\X2DisplayTest\X2DisplayTest\obj\Debug\Colorimeter_Config_GUI.FixturePanel.resources
+C:\Users\Administrator\Desktop\Project\X2DisplayTest\X2DisplayTest\obj\Debug\Colorimeter_Config_GUI.Form_Config.resources
+C:\Users\Administrator\Desktop\Project\X2DisplayTest\X2DisplayTest\obj\Debug\Colorimeter_Config_GUI.FrmLogin.resources
+C:\Users\Administrator\Desktop\Project\X2DisplayTest\X2DisplayTest\obj\Debug\X2DisplayTest.FrmSetting.resources
+C:\Users\Administrator\Desktop\Project\X2DisplayTest\X2DisplayTest\obj\Debug\Colorimeter_Config_GUI.ModeSwithDlg.resources
+C:\Users\Administrator\Desktop\Project\X2DisplayTest\X2DisplayTest\obj\Debug\X2DisplayTest.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Project\X2DisplayTest\X2DisplayTest\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\Project\X2DisplayTest\X2DisplayTest\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\Project\X2DisplayTest\X2DisplayTest\bin\Debug\X2DisplayTest.exe
+C:\Users\Administrator\Desktop\Project\X2DisplayTest\X2DisplayTest\bin\Debug\X2DisplayTest.pdb
+C:\Users\Administrator\Desktop\Project\X2DisplayTest\X2DisplayTest\obj\Debug\Interop.CA200SRVRLib.dll
+D:\4.5 X2ForX32OK\Project\X2DisplayTest\X2DisplayTest\bin\Debug\X2DisplayTest.exe.config
+D:\4.5 X2ForX32OK\Project\X2DisplayTest\X2DisplayTest\obj\Debug\Interop.CA200SRVRLib.dll
+D:\4.5 X2ForX32OK\Project\X2DisplayTest\X2DisplayTest\obj\Debug\X2DisplayTest.csproj.ResolveComReference.cache
+D:\4.5 X2ForX32OK\Project\X2DisplayTest\X2DisplayTest\obj\Debug\X2DisplayTest.exe
+D:\4.5 X2ForX32OK\Project\X2DisplayTest\X2DisplayTest\obj\Debug\X2DisplayTest.pdb
+D:\4.5 X2ForX32OK\Project\X2DisplayTest\X2DisplayTest\bin\Debug\X2DisplayTest.exe
+D:\4.5 X2ForX32OK\Project\X2DisplayTest\X2DisplayTest\bin\Debug\X2DisplayTest.pdb
+D:\4.5 X2ForX32OK\Project\X2DisplayTest\X2DisplayTest\obj\Debug\ResolveAssemblyReference.cache
+D:\4.5 X2ForX32OK\Project\X2DisplayTest\X2DisplayTest\obj\Debug\Colorimeter_Config_GUI.CalibrationPanel.resources
+D:\4.5 X2ForX32OK\Project\X2DisplayTest\X2DisplayTest\obj\Debug\Colorimeter_Config_GUI.FeatureParam.resources
+D:\4.5 X2ForX32OK\Project\X2DisplayTest\X2DisplayTest\obj\Debug\Colorimeter_Config_GUI.FixturePanel.resources
+D:\4.5 X2ForX32OK\Project\X2DisplayTest\X2DisplayTest\obj\Debug\Colorimeter_Config_GUI.Form_Config.resources
+D:\4.5 X2ForX32OK\Project\X2DisplayTest\X2DisplayTest\obj\Debug\Colorimeter_Config_GUI.FrmLogin.resources
+D:\4.5 X2ForX32OK\Project\X2DisplayTest\X2DisplayTest\obj\Debug\X2DisplayTest.FrmSetting.resources
+D:\4.5 X2ForX32OK\Project\X2DisplayTest\X2DisplayTest\obj\Debug\Colorimeter_Config_GUI.ModeSwithDlg.resources
+D:\4.5 X2ForX32OK\Project\X2DisplayTest\X2DisplayTest\obj\Debug\X2DisplayTest.Properties.Resources.resources
+D:\4.5 X2ForX32OK\Project\X2DisplayTest\X2DisplayTest\obj\Debug\GenerateResource.read.1.tlog
+D:\4.5 X2ForX32OK\Project\X2DisplayTest\X2DisplayTest\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Jackie\Desktop\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\X2DisplayTest.exe.config
+C:\Users\Jackie\Desktop\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\Interop.CA200SRVRLib.dll
+C:\Users\Jackie\Desktop\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.csproj.ResolveComReference.cache
+C:\Users\Jackie\Desktop\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.exe
+C:\Users\Jackie\Desktop\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.pdb
+C:\Users\Jackie\Desktop\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\X2DisplayTest.exe
+C:\Users\Jackie\Desktop\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\X2DisplayTest.pdb
+C:\Users\Jackie\Desktop\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.csprojResolveAssemblyReference.cache
+C:\Users\Jackie\Desktop\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.Properties.Resources.resources
+C:\Users\Jackie\Desktop\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.csproj.GenerateResource.Cache
+C:\Users\Jackie\Desktop\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.DCPower3005Panel.resources
+C:\Users\Jackie\Desktop\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.TestNodePanel.resources
+C:\Users\Jackie\Desktop\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.CalibrationPanel.resources
+C:\Users\Jackie\Desktop\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.FeaturePanel.resources
+C:\Users\Jackie\Desktop\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.FixturePanel.resources
+C:\Users\Jackie\Desktop\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.Form_Config.resources
+C:\Users\Jackie\Desktop\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.FrmLogin.resources
+C:\Users\Jackie\Desktop\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.FrmSetting.resources
+C:\Users\Jackie\Desktop\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.ModeSwithDlg.resources
+C:\Users\Jackie\Desktop\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\corner.dll
+C:\Users\Jackie\Desktop\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\corner.pdb
+E:\Project\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\X2DisplayTest.exe.config
+E:\Project\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\Interop.CA200SRVRLib.dll
+E:\Project\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.csproj.ResolveComReference.cache
+E:\Project\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.exe
+E:\Project\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.pdb
+E:\Project\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\X2DisplayTest.exe
+E:\Project\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\X2DisplayTest.pdb
+E:\Project\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\corner.dll
+E:\Project\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\corner.pdb
+E:\Project\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.csprojResolveAssemblyReference.cache
+E:\Project\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.CalibrationPanel.resources
+E:\Project\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.FeaturePanel.resources
+E:\Project\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.FixturePanel.resources
+E:\Project\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.Form_Config.resources
+E:\Project\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.FrmLogin.resources
+E:\Project\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.FrmSetting.resources
+E:\Project\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.ModeSwithDlg.resources
+E:\Project\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.Properties.Resources.resources
+E:\Project\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.TestNodePanel.resources
+E:\Project\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.csproj.GenerateResource.Cache
+E:\Project\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.IntegratingSpherePanel.resources
+E:\MT\v1colorimeter-jackie_32bit\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\X2DisplayTest.exe.config
+E:\MT\v1colorimeter-jackie_32bit\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.csproj.ResolveComReference.cache
+E:\MT\v1colorimeter-jackie_32bit\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.exe
+E:\MT\v1colorimeter-jackie_32bit\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.pdb
+E:\MT\v1colorimeter-jackie_32bit\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\ResolveAssemblyReference.cache
+E:\MT\v1colorimeter-jackie_32bit\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.CalibrationPanel.resources
+E:\MT\v1colorimeter-jackie_32bit\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.IntegratingSpherePanel.resources
+E:\MT\v1colorimeter-jackie_32bit\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.FeaturePanel.resources
+E:\MT\v1colorimeter-jackie_32bit\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.FixturePanel.resources
+E:\MT\v1colorimeter-jackie_32bit\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.Form_Config.resources
+E:\MT\v1colorimeter-jackie_32bit\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.FrmLogin.resources
+E:\MT\v1colorimeter-jackie_32bit\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.FrmSetting.resources
+E:\MT\v1colorimeter-jackie_32bit\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.ModeSwithDlg.resources
+E:\MT\v1colorimeter-jackie_32bit\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.Properties.Resources.resources
+E:\MT\v1colorimeter-jackie_32bit\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.TestNodePanel.resources
+E:\MT\v1colorimeter-jackie_32bit\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\GenerateResource.read.1.tlog
+E:\MT\v1colorimeter-jackie_32bit\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\GenerateResource.write.1.tlog
+E:\MT\v1colorimeter-jackie_32bit\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\X2DisplayTest.exe
+E:\MT\v1colorimeter-jackie_32bit\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\X2DisplayTest.pdb
+E:\MT\v1colorimeter-jackie_32bit\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\corner.dll
+E:\MT\v1colorimeter-jackie_32bit\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\corner.pdb
+E:\MT\v1colorimeter-jackie_32bit\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\Interop.CA200SRVRLib.dll
+E:\MT\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\X2DisplayTest.exe.config
+E:\MT\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\Interop.CA200SRVRLib.dll
+E:\MT\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.csproj.ResolveComReference.cache
+E:\MT\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.exe
+E:\MT\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.pdb
+E:\MT\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\X2DisplayTest.exe
+E:\MT\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\X2DisplayTest.pdb
+E:\MT\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\corner.dll
+E:\MT\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\FlyCap2CameraControld_v100.dll
+E:\MT\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\FlyCapture2Managedd_v100.dll
+E:\MT\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\Imageprocess.dll
+E:\MT\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\Imageprocess.Imaging.dll
+E:\MT\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\Imageprocess.Math.dll
+E:\MT\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\corner.pdb
+E:\MT\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\ResolveAssemblyReference.cache
+E:\MT\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.CalibrationPanel.resources
+E:\MT\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.IntegratingSpherePanel.resources
+E:\MT\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.FeaturePanel.resources
+E:\MT\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.FixturePanel.resources
+E:\MT\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.Form_Config.resources
+E:\MT\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.FrmLogin.resources
+E:\MT\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.FrmSetting.resources
+E:\MT\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.ModeSwithDlg.resources
+E:\MT\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.Properties.Resources.resources
+E:\MT\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.TestNodePanel.resources
+E:\MT\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\GenerateResource.read.1.tlog
+E:\MT\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\GenerateResource.write.1.tlog
+D:\x2\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\X2DisplayTest.exe.config
+D:\x2\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\Interop.CA200SRVRLib.dll
+D:\x2\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.csproj.ResolveComReference.cache
+D:\x2\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.exe
+D:\x2\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.pdb
+D:\x2\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\X2DisplayTest.exe
+D:\x2\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\X2DisplayTest.pdb
+D:\x2\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\FlyCap2CameraControld_v100.dll
+D:\x2\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\FlyCapture2Managedd_v100.dll
+D:\x2\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\ResolveAssemblyReference.cache
+D:\x2\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.CalibrationPanel.resources
+D:\x2\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.IntegratingSpherePanel.resources
+D:\x2\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.FeaturePanel.resources
+D:\x2\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.FixturePanel.resources
+D:\x2\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.Form_Config.resources
+D:\x2\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.FrmLogin.resources
+D:\x2\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.FrmSetting.resources
+D:\x2\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.ModeSwithDlg.resources
+D:\x2\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.Properties.Resources.resources
+D:\x2\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.TestNodePanel.resources
+D:\x2\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\GenerateResource.read.1.tlog
+D:\x2\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\GenerateResource.write.1.tlog
+D:\x2\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\AForge.dll
+D:\x2\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\AForge.Imaging.dll
+D:\x2\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\AForge.Math.dll
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\X2DisplayTest.exe.config
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\Interop.CA200SRVRLib.dll
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.csproj.ResolveComReference.cache
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.exe
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.pdb
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\X2DisplayTest.exe
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\X2DisplayTest.pdb
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\AForge.dll
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\AForge.Imaging.dll
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\AForge.Math.dll
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\FlyCap2CameraControld_v100.dll
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\FlyCapture2Managedd_v100.dll
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\ResolveAssemblyReference.cache
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.CalibrationPanel.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.IntegratingSpherePanel.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.FeaturePanel.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.FixturePanel.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.Form_Config.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.FrmLogin.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.FrmSetting.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.ModeSwithDlg.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.Properties.Resources.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.TestNodePanel.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\GenerateResource.read.1.tlog
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\GenerateResource.write.1.tlog
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 副本\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\X2DisplayTest.exe.config
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 副本\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\Interop.CA200SRVRLib.dll
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 副本\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.csproj.ResolveComReference.cache
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 副本\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.exe
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 副本\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.pdb
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 副本\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\X2DisplayTest.exe
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 副本\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\X2DisplayTest.pdb
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 副本\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\AForge.dll
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 副本\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\AForge.Imaging.dll
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 副本\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\AForge.Math.dll
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 副本\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\FlyCap2CameraControld_v100.dll
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 副本\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\FlyCapture2Managedd_v100.dll
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 副本\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\ResolveAssemblyReference.cache
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 副本\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.CalibrationPanel.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 副本\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.IntegratingSpherePanel.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 副本\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.FeaturePanel.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 副本\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.FixturePanel.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 副本\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.Form_Config.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 副本\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.FrmLogin.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 副本\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.FrmSetting.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 副本\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.ModeSwithDlg.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 副本\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.Properties.Resources.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 副本\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.TestNodePanel.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 副本\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\GenerateResource.read.1.tlog
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 副本\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\GenerateResource.write.1.tlog
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 0902\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\X2DisplayTest.exe.config
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 0902\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\Interop.CA200SRVRLib.dll
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 0902\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.csproj.ResolveComReference.cache
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 0902\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.exe
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 0902\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.pdb
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 0902\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\X2DisplayTest.exe
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 0902\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\X2DisplayTest.pdb
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 0902\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\AForge.dll
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 0902\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\AForge.Imaging.dll
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 0902\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\AForge.Math.dll
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 0902\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\FlyCap2CameraControld_v100.dll
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 0902\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\FlyCapture2Managedd_v100.dll
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 0902\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\ResolveAssemblyReference.cache
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 0902\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.CalibrationPanel.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 0902\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.IntegratingSpherePanel.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 0902\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.FeaturePanel.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 0902\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.FixturePanel.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 0902\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.Form_Config.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 0902\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.FrmLogin.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 0902\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.FrmSetting.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 0902\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.ModeSwithDlg.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 0902\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.Properties.Resources.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 0902\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.TestNodePanel.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 0902\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\GenerateResource.read.1.tlog
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 0902\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\GenerateResource.write.1.tlog
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 0903\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\X2DisplayTest.exe.config
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 0903\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\Interop.CA200SRVRLib.dll
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 0903\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.csproj.ResolveComReference.cache
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 0903\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.exe
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 0903\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.pdb
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 0903\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\X2DisplayTest.exe
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 0903\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\X2DisplayTest.pdb
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 0903\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\AForge.dll
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 0903\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\AForge.Imaging.dll
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 0903\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\AForge.Math.dll
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 0903\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\FlyCap2CameraControld_v100.dll
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 0903\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\FlyCapture2Managedd_v100.dll
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 0903\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\ResolveAssemblyReference.cache
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 0903\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.CalibrationPanel.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 0903\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.IntegratingSpherePanel.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 0903\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.FeaturePanel.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 0903\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.FixturePanel.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 0903\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.Form_Config.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 0903\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.FrmLogin.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 0903\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.FrmSetting.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 0903\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.ModeSwithDlg.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 0903\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.Properties.Resources.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 0903\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.TestNodePanel.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 0903\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\GenerateResource.read.1.tlog
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 0903\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\GenerateResource.write.1.tlog
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 1017\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\X2DisplayTest.exe.config
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 1017\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\Interop.CA200SRVRLib.dll
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 1017\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.csproj.ResolveComReference.cache
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 1017\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.exe
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 1017\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.pdb
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 1017\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\X2DisplayTest.exe
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 1017\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\X2DisplayTest.pdb
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 1017\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\AForge.dll
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 1017\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\AForge.Imaging.dll
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 1017\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\AForge.Math.dll
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 1017\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\FlyCap2CameraControld_v100.dll
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 1017\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\FlyCapture2Managedd_v100.dll
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 1017\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\ResolveAssemblyReference.cache
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 1017\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.CalibrationPanel.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 1017\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.IntegratingSpherePanel.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 1017\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.FeaturePanel.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 1017\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.FixturePanel.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 1017\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.Form_Config.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 1017\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.FrmLogin.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 1017\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.FrmSetting.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 1017\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.ModeSwithDlg.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 1017\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.Properties.Resources.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 1017\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.TestNodePanel.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 1017\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\GenerateResource.read.1.tlog
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 1017\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\GenerateResource.write.1.tlog
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 1205\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\X2DisplayTest.exe.config
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 1205\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\Interop.CA200SRVRLib.dll
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 1205\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.csproj.ResolveComReference.cache
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 1205\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.exe
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 1205\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.pdb
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 1205\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\X2DisplayTest.exe
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 1205\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\X2DisplayTest.pdb
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 1205\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\AForge.dll
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 1205\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\AForge.Imaging.dll
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 1205\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\AForge.Math.dll
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 1205\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\FlyCap2CameraControld_v100.dll
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 1205\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\FlyCapture2Managedd_v100.dll
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 1205\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\ResolveAssemblyReference.cache
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 1205\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.CalibrationPanel.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 1205\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.IntegratingSpherePanel.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 1205\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.FeaturePanel.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 1205\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.FixturePanel.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 1205\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.Form_Config.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 1205\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.FrmLogin.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 1205\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.FrmSetting.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 1205\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.ModeSwithDlg.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 1205\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.Properties.Resources.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 1205\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.TestNodePanel.resources
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 1205\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\GenerateResource.read.1.tlog
+D:\X2\AOI TEST SW\AOI TEST SW\v1colorimeter-jackie_32bit(IQC) - 1205\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\g10sfc\Desktop\X2资料\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\bin\Debug\X2DisplayTest.exe.config
+C:\Users\g10sfc\Desktop\X2资料\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\Interop.CA200SRVRLib.dll
+C:\Users\g10sfc\Desktop\X2资料\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.csproj.ResolveComReference.cache
+C:\Users\g10sfc\Desktop\X2资料\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.exe
+C:\Users\g10sfc\Desktop\X2资料\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit(IQC)\v1colorimeter-jackie_32bit\X2DisplayTest\obj\Debug\X2DisplayTest.pdb
